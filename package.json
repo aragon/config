@@ -1,0 +1,16 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "This monorepo contains Aragon's shared configurations.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aragon/config.git"
+  },
+  "keywords": ["ethereum","aragon"],
+  "author": "Aragon Association <legal@aragon.org>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/aragon/config/issues"
+  },
+  "homepage": "https://github.com/aragon/config#readme"
+}
