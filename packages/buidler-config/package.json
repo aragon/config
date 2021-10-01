@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Aragon buidler configuration file",
   "main": "buidler.config.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "ethereum",
     "aragon"
@@ -16,6 +13,7 @@
     "type": "git",
     "url": "https://github.com/aragon/config.git"
   },
+  "homepage": "https://github.com/aragon/config/tree/main/packages/buidler-config",
   "devDependencies": {
     "@aragon/buidler-aragon": "^0.2.12",
     "@nomiclabs/buidler": "^1.4.8",

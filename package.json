@@ -6,7 +6,10 @@
     "type": "git",
     "url": "git+https://github.com/aragon/config.git"
   },
-  "keywords": ["ethereum","aragon"],
+  "keywords": [
+    "ethereum",
+    "aragon"
+  ],
   "author": "Aragon Association <legal@aragon.org>",
   "license": "AGPL-3.0-or-later",
   "bugs": {
