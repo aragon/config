@@ -1,0 +1,22 @@
+{
+  "name": "@aragon/hardhat-config",
+  "version": "0.0.1",
+  "description": "Aragon hardhat configuration file",
+  "main": "hardhat.config.js",
+  "keywords": [
+    "ethereum",
+    "aragon"
+  ],
+  "author": "Aragon Association <legal@aragon.org>",
+  "license": "AGPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aragon/config.git"
+  },
+  "homepage": "https://github.com/aragon/config/tree/main/packages/hardhat-config",
+  "peerDependencies": {
+    "@nomiclabs/hardhat-etherscan": "^2.1.6",
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@aragon/hardhat-aragon": "^0.0.1"
+  }
+}
