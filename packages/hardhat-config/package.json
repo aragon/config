@@ -1,6 +1,6 @@
 {
   "name": "@aragon/hardhat-config",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Aragon hardhat configuration file",
   "main": "hardhat.config.js",
   "keywords": [
@@ -17,6 +17,6 @@
   "peerDependencies": {
     "@nomiclabs/hardhat-etherscan": "^2.1.6",
     "@nomiclabs/hardhat-ethers": "^2.0.2",
-    "@aragon/hardhat-aragon": "^0.0.1"
+    "@aragon/hardhat-aragon": "^0.2.0"
   }
 }

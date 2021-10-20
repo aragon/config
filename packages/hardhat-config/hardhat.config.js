@@ -50,6 +50,8 @@ module.exports = {
     rinkeby: getNetworkConfig("rinkeby"),
     mumbai: getNetworkConfig("mumbai"),
     matic: getNetworkConfig("matic"),
+    harmony: getNetworkConfig('harmony'),
+    harmonyTest: getNetworkConfig('harmonyTest'),
   },
   mocha: {
     timeout: 30000,
