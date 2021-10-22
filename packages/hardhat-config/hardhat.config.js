@@ -52,6 +52,8 @@ module.exports = {
     matic: getNetworkConfig("matic"),
     harmony: getNetworkConfig('harmony'),
     harmonyTest: getNetworkConfig('harmonyTest'),
+    bsc: getNetworkConfig('bsc'),
+    bscTest: getNetworkConfig('bscTest'),
   },
   mocha: {
     timeout: 30000,
