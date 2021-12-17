@@ -54,6 +54,8 @@ module.exports = {
     harmonyTest: getNetworkConfig('harmonyTest'),
     bsc: getNetworkConfig('bsc'),
     bscTest: getNetworkConfig('bscTest'),
+    stardust: getNetworkConfig('stardust'),
+    andromeda: getNetworkConfig('andromeda'),
   },
   mocha: {
     timeout: 30000,
