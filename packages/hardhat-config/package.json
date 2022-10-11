@@ -1,6 +1,6 @@
 {
   "name": "@aragon/hardhat-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Aragon hardhat configuration file",
   "main": "hardhat.config.js",
   "keywords": [
