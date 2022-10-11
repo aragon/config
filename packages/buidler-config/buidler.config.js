@@ -46,9 +46,9 @@ module.exports = {
       url: 'http://localhost:1248',
     },
     mainnet: settingsForNetwork('mainnet'),
-    rinkeby: settingsForNetwork('rinkeby'),
     mumbai: settingsForNetwork('mumbai'),
     matic: settingsForNetwork('matic'),
+    goerli: settingsForNetwork('goerli'),
   },
   solc: {
     version: '0.4.24',

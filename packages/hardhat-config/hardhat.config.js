@@ -47,7 +47,7 @@ module.exports = {
       allowUnlimitedContractSize: true,
     },
     mainnet: getNetworkConfig("mainnet"),
-    rinkeby: getNetworkConfig("rinkeby"),
+    goerli: getNetworkConfig("goerli"),
     mumbai: getNetworkConfig("mumbai"),
     matic: getNetworkConfig("matic"),
     harmony: getNetworkConfig('harmony'),

@@ -1,6 +1,6 @@
 {
   "name": "@aragon/buidler-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aragon buidler configuration file",
   "main": "buidler.config.js",
   "keywords": [
